@@ -10,10 +10,10 @@
 <span> npm i xltojson </span>
 
 <h2> How to use </h2>
-  ```JavaScript
+  <code>
     var xlToJson = require("xltojson");
 
     xlToJson("tester.xlsx", "tester.json")
     .then(res => console.log(res))
     .catch(err => console.error(err));
-  ```
+  </code>
