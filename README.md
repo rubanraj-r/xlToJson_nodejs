@@ -2,4 +2,4 @@
 
 <br />
 
-<span> Developed in Nodejs with ❤ to convert Excel sheet data into Json data </span>
+<span> Developed in JS with ❤ to convert Excel sheet data into Json data </span>
