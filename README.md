@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<h2> How to use <h2>
+<h2> How to use </h2>
 
   var xlToJson = require("xltojson");
 
