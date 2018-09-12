@@ -6,6 +6,9 @@
 <br />
 <br />
 
+<h2> Installation </h2>
+<span> npm i xltojson </span>
+
 <h2> How to use </h2>
 
   var xlToJson = require("xltojson");
