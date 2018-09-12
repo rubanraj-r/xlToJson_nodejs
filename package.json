@@ -1,6 +1,6 @@
 {
   "name": "xltojson",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Developed in JS with ❤ to convert Excel sheet data into Json data",
   "main": "index.js",
   "scripts": {
