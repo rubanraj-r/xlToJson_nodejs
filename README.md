@@ -5,7 +5,7 @@
 
 ## Installation
 ```
-npm i xltojson
+npm i xltojson --save
 ```
 
 ## How to use
