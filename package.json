@@ -9,6 +9,6 @@
   "author": "Rubanraj",
   "license": "ISC",
   "dependencies": {
-    "xlsx": "^0.11.10"
+    "xlsx": "^0.16.0"
   }
 }
