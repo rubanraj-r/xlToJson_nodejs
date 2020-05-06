@@ -1,19 +1,18 @@
-<h1> xlToJson </h1>
+# xlToJson
 
-<br />
+*Developed in JS with ❤ to convert Excel sheet data into Json data*
 
-<span> Developed in JS with ❤ to convert Excel sheet data into Json data </span>
-<br />
-<br />
 
-<h2> Installation </h2>
-<span> npm i xltojson </span>
+## Installation
+```
+npm i xltojson
+```
 
-<h2> How to use </h2>
-  <h5><code>
-    var xlToJson = require("xltojson");
+## How to use
+```
+var xlToJson = require("xltojson");
 
-    xlToJson("tester.xlsx", "tester.json")
-    .then(res => console.log(res))
-    .catch(err => console.error(err));
-  </code></h5>
+xlToJson("tester.xlsx", "tester.json")
+  .then(res => console.log(res))
+  .catch(err => console.error(err));
+```
